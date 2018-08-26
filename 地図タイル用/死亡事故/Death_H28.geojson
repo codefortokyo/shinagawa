@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "発生日": "平成２８年６月２８日（火）", "発生時間": "午後１０時３分ころ", "場所": "品川区西五反田８丁目", "路線": "国道１号", "事故当事者": "歩行者（５０歳代男性、死亡）、普通乗用車（６０歳代男性）", "上半期": 1, "下半期": 0 }, "geometry": { "type": "Point", "coordinates": [ 15553499.172336498275399, 4248552.103430578485131 ] } }
+]
+}
